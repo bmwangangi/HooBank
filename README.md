@@ -28,14 +28,19 @@ To get started with this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/bmwangangi/HooBank.git
+```
 
 2. Install dependencies
 Navigate to the project directory and install the required dependencies:
 
+```bash
 cd project_hoobank-main
 npm install
+```
 
 3. Run the development server
 Once the dependencies are installed, start the development server:
+
+```bash
 
 npm run dev
